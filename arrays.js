@@ -5,3 +5,7 @@ var arrayNew = []
 function addElementToBeginningOfArray(array, element){
   arrayNew = [element, ...array]
 }
+
+function addElementToBeginningOfArray(array, element){
+  arrayNew = [...array, element]
+}
