@@ -4,7 +4,7 @@ function addElementToBeginningOfArray(array, element){
   return [array, element]
 }
 
-function addElementToBeginningOfArray(element, array){
+function addElementToBeginningOfArray(array, element){
   return [element, array]
 }
 
