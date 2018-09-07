@@ -1,5 +1,5 @@
 var chocolateBars = ["snickers", "hundred grand", "kit kat", "skittles"]
 
-function addElementToBeginningOfArray
+function addElementToBeginningOfArray(a, b)
 
-function destructivelyAddElementToBeginningOfArray
+function destructivelyAddElementToBeginningOfArray(c, d)
