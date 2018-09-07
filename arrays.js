@@ -4,5 +4,5 @@ var todo = []
 
 function addElementToBeginningOfArray(array, element){
   
-  todo.unshift(1, "foo");
+  todo.unshift(array, element);
 }
