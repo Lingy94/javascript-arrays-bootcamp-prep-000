@@ -7,8 +7,3 @@ function addElementToBeginningOfArray(array, element){
   todo.unshift(array, element)
   todo
 }
-
-function destructivelyAddElementToBeginningOfArray(array, element) {
-  todo.push(array, element)
-  todo
-}
