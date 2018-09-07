@@ -4,5 +4,4 @@ var arrayNew = []
 
 function addElementToBeginningOfArray(array, element){
   arrayNew = [element. ...array]
-  return arrayNew
 }
