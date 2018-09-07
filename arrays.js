@@ -4,7 +4,7 @@ function addElementToBeginningOfArray(array, element){
   var newArray = chocolateBars.unshift(array, element)
 }
 
-function addElementToBeginningOfArray(array, element){
+function addElementToBeginningOfArray(element, array){
   var newArray = chocolateBars.unshift(element, array)
 }
 
