@@ -7,5 +7,5 @@ function addElementToBeginningOfArray(array, element){
 }
 
 function addElementToBeginningOfArray(array, element){
-  arrayNew = [...array, element]
+  var newArray = chocolateBars.
 }
