@@ -4,11 +4,10 @@ function addElementToBeginningOfArray(array, element){
   return [...array, element]
 }
 
-function addElementToBeginningOfArray(array, element){
-  return [element, ...array]
-}
-
 function destructivelyAddElementToBeginningOfArray(){
   var newArray = chocolateBars.unshift(...array, element)
-  
+}
+
+function addElementToBeginningOfArray(array, element){
+  return [element, ...array]
 }
