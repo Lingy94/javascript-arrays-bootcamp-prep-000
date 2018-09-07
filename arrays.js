@@ -4,4 +4,5 @@ var arrayNew = []
 
 function addElementToBeginningOfArray(array, element){
   arrayNew.unshift = [array, element]
+  return arrayNew
 }
