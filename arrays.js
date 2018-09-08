@@ -9,11 +9,11 @@ function destructivelyAddElementToBeginningOfArray(chocolateBars, element){
   return chocolateBars;
 }
 
-function addElementToEndOfarrayOfArray(array, element){
+function addElementToEndOfArray(array, element){
   return [...array, element];
 }
 
-function destructivelyAddElementToEndOfSrray(array, element){
+function destructivelyAddElementToEndOfArray(array, element){
   array.push(element);
   return array
 }
