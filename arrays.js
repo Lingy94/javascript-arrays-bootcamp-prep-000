@@ -14,4 +14,5 @@ function addElementToBeginningOfArray(chocolateBars, element){
 }
 
 function destructivelyddElementToEndOfarray(chocolateBars, element){
-  return [...]
+  chocolateBars.push(element)
+}
