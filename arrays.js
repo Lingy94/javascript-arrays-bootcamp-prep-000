@@ -1,6 +1,6 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
-function addElementToBeginningOfArray(chocolateBars, element){
+function addElementToEndOfarrayOfArray(chocolateBars, element){
   return [...chocolateBars, element]
 }
 
@@ -13,5 +13,5 @@ function addElementToBeginningOfArray(chocolateBars, element){
   return [element, ...chocolateBars]
 }
 
-function addElementToEndOfarray(chocolateBars, element){
+function destructivelyddElementToEndOfarray(chocolateBars, element){
   return [...]
