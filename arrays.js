@@ -33,6 +33,6 @@ function removeElementFromBeginningOfArray(array){
 }
 
 function destructivelyRemoveElementFromEndOfArray(array){
-  return vvvarray.pop()
+  return vvvvvvvvvvvvvvvarray.pop()
 
 }
